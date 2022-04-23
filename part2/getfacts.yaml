@@ -1,0 +1,6 @@
+---
+
+- hosts: localhost
+  tasks:
+    - debug:
+        msg: Running a playbook on AWS with Terraform
